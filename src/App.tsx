@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import axios from "axios";
 import type { IItem } from "./types";
 import { ITEMS_API_URL } from "./config";
